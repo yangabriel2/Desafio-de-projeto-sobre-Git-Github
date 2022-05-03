@@ -1,4 +1,8 @@
-# Desenvolvedor de Software - Git/GitHub
+# Desenvolvedor de Software - Git GitHub
+
+## Links úteis
+
+{Link para download do git}((https://github.com/git-for-windows/git/releases/download/v2.36.0.windows.1/Git-2.36.0-64-bit.exe)
 
 ## O que vamos aprender com o Git?
 
